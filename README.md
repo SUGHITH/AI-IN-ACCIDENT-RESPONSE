@@ -1,2 +1,4 @@
 # Volunteer-First-Aid-Response
-Android application, sends notifications in users nearby when there is an accident that either another user or the server reported.
+Made in Android Studio with remote server deployed in xampp.
+All requests are handled by the server that sends notifications with Firebase.
+The location of the accident is shown with Google Maps.
